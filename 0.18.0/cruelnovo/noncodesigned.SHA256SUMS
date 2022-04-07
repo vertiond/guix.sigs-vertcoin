@@ -1,0 +1,13 @@
+32a3ab16c6680f43962ce4f62f8397f4d6111d4e589ae70d298b29526a62afc5  output/src/vertcoin-0.18.0.tar.gz
+2973e87b7f3d56da3380673887c309a9e64b2c240ad4adad88424d529771dc92  output/vertcoin-0.18.0-aarch64-linux-gnu-debug.tar.gz
+ae4c37fcd4e9b9e482ce137e6818c0a522f9693632c1d7041ae43ffe02725bd3  output/vertcoin-0.18.0-aarch64-linux-gnu.tar.gz
+1783e84963435ceeed3dc0c2468a06e8496a473b1fab04137394cbb624c374a4  output/vertcoin-0.18.0-arm-linux-gnueabihf-debug.tar.gz
+cec7564b17b9e48b0f0417c929afb59f9fe1a935da64fcc3715ef33228b36a7d  output/vertcoin-0.18.0-arm-linux-gnueabihf.tar.gz
+e0f0657e75f332762ef39c0eeb808a1261a6c8ac1de25cc933e7fdedb584d01f  output/vertcoin-0.18.0-riscv64-linux-gnu-debug.tar.gz
+f2bb2a8e1d6c6adc8aecb18478f28ecd37ba8c52b196f6a189e8fa6021b77040  output/vertcoin-0.18.0-riscv64-linux-gnu.tar.gz
+0d070b98654fc27a723d374199abd0aad64308680bc4881fd1cf6402f26d2338  output/vertcoin-0.18.0-win64-debug.zip
+ce90a0da81385a07f68b94abedba8a9f306a48eb158069eb3a22f6a7a61d3b33  output/vertcoin-0.18.0-win64-setup-unsigned.exe
+e5e5092560a7e0c3fb889ba7190112487c4c995ce56053268a9288157305102f  output/vertcoin-0.18.0-win64.zip
+20ccd556c0ad91871acad40c0d8751443f8e217dc6242998f7c19ac9caa0ea16  output/vertcoin-0.18.0-win-unsigned.tar.gz
+da5e957c511d7d279d03fb0e9b432d00644547ebbe346cf00dbf24bbb4ea613d  output/vertcoin-0.18.0-x86_64-linux-gnu-debug.tar.gz
+6ded7ea883b6cf9cee95701b13eef2e601a85f91d15f255d4fc7b25db92808ec  output/vertcoin-0.18.0-x86_64-linux-gnu.tar.gz
